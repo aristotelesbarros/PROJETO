@@ -219,3 +219,7 @@ header {
   margin-top: 16px;
 }
 
+.ola{
+  background-image: url("fundo.jpg");
+  background-attachment: fixed;
+}
