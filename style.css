@@ -224,5 +224,10 @@ header {
   background-attachment: fixed;
 }
 
-
+.button{
+  border: none;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: #25d366;
+}
 
