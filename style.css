@@ -239,11 +239,16 @@ header {
 
 button{
   
- padding-left: 20px;
- font-size: 18px;
+ width: 100px;
+ height: 26px;
+ border-radius: 20px;
  color: yellow;
- background: none;
+ background-color: red;
  cursor: pointer;
+ margin-left: 10px;
+ margin-top: -3px;
+ 
+ 
  
  
  
