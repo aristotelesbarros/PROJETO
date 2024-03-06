@@ -231,3 +231,25 @@ header {
   background-color: #25d366;
 }
 
+.card_content3{
+  display: flex;
+  padding: 18px;
+  
+}
+
+button{
+  
+ padding-left: 20px;
+ font-size: 10px;
+ color: yellow;
+ background: none;
+ cursor: pointer;
+ 
+ 
+ 
+
+ 
+
+
+  
+}
